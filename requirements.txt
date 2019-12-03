@@ -1,0 +1,6 @@
+Flask
+joblib
+pymongo
+numpy
+json2html
+Sklearn
