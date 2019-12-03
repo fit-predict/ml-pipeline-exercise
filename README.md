@@ -82,9 +82,9 @@
 
 - Jupyter Notebooks:
 
-  - [Exercise](https://github.com/fit-predict/ml-pipeline-exercise/blob/master/Spine.html)
-  - [Solution](https://github.com/fit-predict/ml-pipeline-exercise/blob/master/Spine_key.html)
-  - [Missing values imputation](https://github.com/fit-predict/ml-pipeline-exercise/blob/master/Spine_missing_values_prediction.html)
+  - [Exercise](https://github.com/fit-predict/ml-pipeline-exercise/blob/master/Spine.ipynb)
+  - [Solution](https://github.com/fit-predict/ml-pipeline-exercise/blob/master/Spine_key.ipynb)
+  - [Missing values imputation](https://github.com/fit-predict/ml-pipeline-exercise/blob/master/Spine_missing_values_prediction.ipynb)
 
 - [Dockerfile](https://github.com/fit-predict/ml-pipeline-exercise/blob/master/Dockerfile)
 
