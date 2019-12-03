@@ -2,7 +2,7 @@
 
 - [Original dataset](https://www.kaggle.com/sammy123/lower-back-pain-symptoms-dataset).
 
-- Read the proposed exercise [here](gimme/ml_pip_adv_slides.pdf).
+- Read the proposed exercise [here](https://github.com/fit-predict/ml-pipeline-exercise/blob/master/ml_pip_adv_slides.pdf).
 
   ## Use cases
 
