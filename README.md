@@ -78,21 +78,21 @@
 
 ## Relevant files
 
-- [Slides](/gimme/ml_pip_adv_slides.pdf)
+- [Slides](https://github.com/fit-predict/ml-pipeline-exercise/blob/master/ml_pip_adv_slides.pdf)
 
 - Jupyter Notebooks:
 
-  - [Exercise](/gimme/Spine.html)
-  - [Solution](/gimme/Spine_key.html)
-  - [Missing values imputation](/gimme/Spine_missing_values_prediction.html)
+  - [Exercise](https://github.com/fit-predict/ml-pipeline-exercise/blob/master/Spine.html)
+  - [Solution](https://github.com/fit-predict/ml-pipeline-exercise/blob/master/Spine_key.html)
+  - [Missing values imputation](https://github.com/fit-predict/ml-pipeline-exercise/blob/master/Spine_missing_values_prediction.html)
 
-- [Dockerfile](/gimme/Dockerfile)
+- [Dockerfile](https://github.com/fit-predict/ml-pipeline-exercise/blob/master/Dockerfile)
 
-- [Requirements](/gimme/requirements.txt)
+- [Requirements](https://github.com/fit-predict/ml-pipeline-exercise/blob/master/requirements.txt)
 
-- [Supervisor's configuration](/gimme/supervisord.conf)
+- [Supervisor's configuration](https://github.com/fit-predict/ml-pipeline-exercise/blob/master/supervisord.conf)
 
-- [Application's code](/gimme/app.py)
+- [Application's code](https://github.com/fit-predict/ml-pipeline-exercise/blob/master/app.py)
 
 
 
